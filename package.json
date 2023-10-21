@@ -2,7 +2,7 @@
   "name": "@formfunction-hq/formfunction-program-shared",
   "version": "0.0.62",
   "description": "Shared client SDK utils for formfunction Solan programs.",
-  "repository": "https://github.com/formfunction-hq/formfn-program-shared",
+  "repository":"https://github.com/AJO-Ltd/program-shared",
   "license": "UNLICENSED",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
