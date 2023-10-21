@@ -1,0 +1,1 @@
+{"version":3,"file":"GenericDecodedTransaction.d.ts","sourceRoot":"","sources":["../../src/types/GenericDecodedTransaction.ts"],"names":[],"mappings":"AAAA,OAAO,qBAAqB,MAAM,6BAA6B,CAAC;AAEhE,KAAK,yBAAyB,CAAC,kBAAkB,IAAI;IAGnD,IAAI,EAAE,qBAAqB,CAAC;IAC5B,IAAI,EAAE,KAAK,CAAC,MAAM,CAAC,CAAC;IACpB,IAAI,EAAE,kBAAkB,CAAC;CAC1B,CAAC;AAEF,eAAe,yBAAyB,CAAC"}

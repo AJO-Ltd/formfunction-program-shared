@@ -1,0 +1,1 @@
+{"version":3,"file":"basisPointsToPercent.js","sourceRoot":"","sources":["../../src/utils/basisPointsToPercent.ts"],"names":[],"mappings":";;;;;AAAA,kDAAuB;AAGvB,SAAwB,oBAAoB,CAAC,EAAiB;IAC5D,OAAO,IAAI,eAAE,CAAC,EAAE,CAAC,CAAC,GAAG,CAAC,IAAI,eAAE,CAAC,GAAG,CAAC,CAAC,CAAC;AACrC,CAAC;AAFD,uCAEC"}

@@ -1,0 +1,1 @@
+{"version":3,"file":"getEmptyTreeRoot.js","sourceRoot":"","sources":["../../src/merkle-tree/getEmptyTreeRoot.ts"],"names":[],"mappings":";;AAAA,SAAwB,YAAY;IAClC,OAAO,MAAM,CAAC,IAAI,CAAC,GAAG,CAAC,MAAM,CAAC,EAAE,CAAC,CAAC,KAAK,CAAC,EAAE,CAAC,CAAC,GAAG,CAAC,MAAM,CAAC,CAAC,CAAC;AAC3D,CAAC;AAFD,+BAEC"}

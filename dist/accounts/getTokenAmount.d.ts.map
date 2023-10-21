@@ -1,0 +1,1 @@
+{"version":3,"file":"getTokenAmount.d.ts","sourceRoot":"","sources":["../../src/accounts/getTokenAmount.ts"],"names":[],"mappings":"AAAA,OAAO,EAAE,UAAU,EAAE,SAAS,EAAE,MAAM,iBAAiB,CAAC;AAGxD,wBAA8B,cAAc,CAC1C,UAAU,EAAE,UAAU,EAEtB,YAAY,EAAE,SAAS,GACtB,OAAO,CAAC,MAAM,CAAC,CAGjB"}

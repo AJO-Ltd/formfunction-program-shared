@@ -1,0 +1,1 @@
+{"version":3,"file":"logIfDebug.js","sourceRoot":"","sources":["../../src/utils/logIfDebug.ts"],"names":[],"mappings":";;;;;AAAA,sDAA8B;AAE9B,8DAA8D;AAC9D,SAAwB,UAAU,CAAC,GAAG,IAAgB;IACpD,IAAI,CAAC,IAAA,gBAAM,GAAE,IAAI,OAAO,CAAC,GAAG,CAAC,KAAK,KAAK,MAAM,EAAE;QAC7C,sCAAsC;QACtC,OAAO,CAAC,GAAG,CAAC,GAAG,IAAI,CAAC,CAAC;KACtB;AACH,CAAC;AALD,6BAKC"}

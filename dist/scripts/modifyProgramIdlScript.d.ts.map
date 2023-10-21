@@ -1,0 +1,1 @@
+{"version":3,"file":"modifyProgramIdlScript.d.ts","sourceRoot":"","sources":["../../src/scripts/modifyProgramIdlScript.ts"],"names":[],"mappings":"AA+JA;;;;;;GAMG;AACH,MAAM,CAAC,OAAO,UAAU,sBAAsB,CAAC,EAC7C,oCAAoC,EACpC,WAAW,EACX,WAAW,GACZ,EAAE;IACD,oCAAoC,EAAE,MAAM,CAAC;IAC7C,WAAW,EAAE,MAAM,CAAC;IACpB,WAAW,EAAE,MAAM,CAAC;CACrB,GAAG,IAAI,CAUP"}

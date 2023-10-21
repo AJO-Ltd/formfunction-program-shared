@@ -1,0 +1,1 @@
+{"version":3,"file":"expectAccountOwnerBy.js","sourceRoot":"","sources":["../../src/utils/expectAccountOwnerBy.ts"],"names":[],"mappings":";;;;;;;;;;;;;;AACA,wFAAgE;AAEhE,SAA8B,oBAAoB,CAChD,UAAsB,EACtB,OAAkB,EAClB,KAAgB;;QAEhB,MAAM,WAAW,GAAG,MAAM,UAAU,CAAC,cAAc,CAAC,OAAO,CAAC,CAAC;QAC7D,IAAA,+BAAqB,EAAC,WAAY,CAAC,KAAK,EAAE,KAAK,CAAC,CAAC;IACnD,CAAC;CAAA;AAPD,uCAOC"}

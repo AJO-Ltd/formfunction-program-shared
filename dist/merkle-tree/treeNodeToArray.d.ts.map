@@ -1,0 +1,1 @@
+{"version":3,"file":"treeNodeToArray.d.ts","sourceRoot":"","sources":["../../src/merkle-tree/treeNodeToArray.ts"],"names":[],"mappings":"AAAA,OAAO,EAAE,UAAU,EAAE,UAAU,EAAE,MAAM,OAAO,CAAC;AAE/C,MAAM,CAAC,OAAO,UAAU,eAAe,CACrC,IAAI,EAAE,UAAU,GAAG,UAAU,GAC5B,KAAK,CAAC,MAAM,CAAC,CAEf"}

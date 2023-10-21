@@ -1,0 +1,1 @@
+{"version":3,"file":"createMintToIx.js","sourceRoot":"","sources":["../../src/instructions/createMintToIx.ts"],"names":[],"mappings":";;AAAA,iDAA4D;AAG5D,SAAwB,cAAc,CACpC,IAAe,EACf,IAAe,EACf,aAAwB,EACxB,YAA4B,EAC5B,MAAc;IAEd,OAAO,IAAA,mCAAuB,EAC5B,IAAI,EACJ,IAAI,EACJ,aAAa,EACb,MAAM,EACN,YAAY,CACb,CAAC;AACJ,CAAC;AAdD,iCAcC"}

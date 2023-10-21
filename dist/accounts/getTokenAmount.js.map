@@ -1,0 +1,1 @@
+{"version":3,"file":"getTokenAmount.js","sourceRoot":"","sources":["../../src/accounts/getTokenAmount.ts"],"names":[],"mappings":";;;;;;;;;;;;;;AACA,uFAA+D;AAE/D,SAA8B,cAAc,CAC1C,UAAsB,EAEtB,YAAuB;;QAEvB,MAAM,OAAO,GAAG,MAAM,IAAA,6BAAmB,EAAC,UAAU,EAAE,YAAY,CAAC,CAAC;QACpE,OAAO,MAAM,CAAC,OAAO,CAAC,MAAM,CAAC,CAAC;IAChC,CAAC;CAAA;AAPD,iCAOC"}

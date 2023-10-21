@@ -1,0 +1,1 @@
+{"version":3,"file":"createTokenAccountIx.d.ts","sourceRoot":"","sources":["../../src/instructions/createTokenAccountIx.ts"],"names":[],"mappings":"AACA,OAAO,EAAE,SAAS,EAAE,sBAAsB,EAAE,MAAM,iBAAiB,CAAC;AAEpE,MAAM,CAAC,OAAO,UAAU,oBAAoB,CAC1C,IAAI,EAAE,SAAS,EACf,KAAK,EAAE,SAAS,EAChB,OAAO,EAAE,SAAS,GACjB,sBAAsB,CAExB"}

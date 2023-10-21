@@ -1,0 +1,1 @@
+{"version":3,"file":"combineTransactions.d.ts","sourceRoot":"","sources":["../../src/transactions/combineTransactions.ts"],"names":[],"mappings":"AAAA,OAAO,EAAE,WAAW,EAAE,wBAAwB,EAAE,MAAM,iBAAiB,CAAC;AAExE,MAAM,CAAC,OAAO,UAAU,mBAAmB,CACzC,YAAY,EAAE,KAAK,CAAC,WAAW,CAAC,EAChC,OAAO,CAAC,EAAE,wBAAwB,eASnC"}

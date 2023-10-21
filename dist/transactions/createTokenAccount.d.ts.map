@@ -1,0 +1,1 @@
+{"version":3,"file":"createTokenAccount.d.ts","sourceRoot":"","sources":["../../src/transactions/createTokenAccount.ts"],"names":[],"mappings":"AAKA,OAAO,EACL,UAAU,EACV,OAAO,EACP,SAAS,EAIV,MAAM,iBAAiB,CAAC;AAGzB,wBAA8B,kBAAkB,CAC9C,UAAU,EAAE,UAAU,EACtB,IAAI,EAAE,SAAS,EACf,KAAK,EAAE,OAAO,GACb,OAAO,CAAC,SAAS,CAAC,CAwBpB"}
